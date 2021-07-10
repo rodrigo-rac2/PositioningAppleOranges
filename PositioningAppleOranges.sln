@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositioningAppleOranges", "PositioningAppleOranges.csproj", "{462F7128-58E1-48FE-BA4C-8F9DD8B22641}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AF3B0DFF-64F6-4EDD-A246-2B5F5B96D6B7}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{462F7128-58E1-48FE-BA4C-8F9DD8B22641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462F7128-58E1-48FE-BA4C-8F9DD8B22641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462F7128-58E1-48FE-BA4C-8F9DD8B22641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462F7128-58E1-48FE-BA4C-8F9DD8B22641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {642D1BE6-9FD7-4F21-A896-03A4D86DE22B}
+	EndGlobalSection
+EndGlobal
